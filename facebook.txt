@@ -2,3 +2,4 @@ signup
 login 
 home
 about
+registration
